@@ -20,7 +20,7 @@ flex-direction:row;
 justify-content:center;
 align-content:center;
 align-items:center;
-background:url(/assets/image1.svg);
+background:url(./assets/image1.svg);
 }
 
 .main {
